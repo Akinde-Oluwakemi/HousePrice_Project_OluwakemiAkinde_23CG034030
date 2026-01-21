@@ -1,0 +1,6 @@
+Name:
+Matric Number:
+Algorithm Used: Linear Regression
+Model Persistence: Pickle
+Live URL:
+GitHub Repo Link:
